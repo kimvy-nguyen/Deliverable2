@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3D6B2204-94D6-43EE-9E9E-5B8A571D5316}|Default">
+  <MonoDevelop.Ide.ItemProperties.Deliverable2KNFunRecommendations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/Program.cs">
+    <Files>
+      <File FileName="Deliverable2KNFunRecommendations/Program.cs" Line="10" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deliverable2KNFunRecommendations" expanded="True">
+            <Node name="Deliverable2KNFunRecommendations" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
